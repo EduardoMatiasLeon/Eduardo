@@ -1,1 +1,0 @@
-﻿powershell -Command {\\10.76.16.26\Programas\10AutoCad\Setup.exe  .\setup.ini}
